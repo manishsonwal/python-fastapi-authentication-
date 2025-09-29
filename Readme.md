@@ -9,7 +9,7 @@ Features
 - Email Verification
 - Password Reset
 - Role-based Access (Admin & User)
-- SQLAlchemy ORM for Database With Mysql.
+- Database Mysql.
 
 
 
