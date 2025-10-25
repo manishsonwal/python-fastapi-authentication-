@@ -8,7 +8,6 @@ Features
 - Password Hashing (bcrypt)
 - Email Verification
 - Password Reset
-- Role-based Access (Admin & User)
 - Database Migration with Alembi
 - Database Mysql.
 
